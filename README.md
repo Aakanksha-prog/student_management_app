@@ -1,4 +1,4 @@
-This is a Student Management System built using Spring Boot, JPA (Java Persistence API), Hibernate, and Thymeleaf. The application allows users to perform CRUD operations (Create, Read, Update, Delete) on student records stored in a database.
+This is a Student Management System built using Spring Boot, JPA (Java Persistence API), Hibernate, and Thymeleaf. The application allows users to perform CRUD operations (Create, Read, Update, Delete) on student details stored in a database.
 
 #Features
 ##List Students: Displays a list of all students in the database.
